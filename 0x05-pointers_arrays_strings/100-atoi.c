@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_numerical - check if is a digit
+ * is_numerical - check if it is a digit
  * @n: Number
  * Return: If it is a number, return 1 else return 0
  */
