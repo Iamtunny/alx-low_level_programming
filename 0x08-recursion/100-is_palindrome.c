@@ -19,6 +19,7 @@ int _strlen_recursion(char *s)
  * p1: palindrome
  * @s: pointer to a string
  * @l: position
+ * Return: boolena
  */
 
 int p1(char *s, int l)
