@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-
 /**
- * check_num - check - string there are digit
+ * check_num - check string if there are digits
  * @str: array str
  * Return: always 0 (success)
  */
@@ -25,6 +24,7 @@ count++;
 }
 return (1);
 }
+
 /**
  * main - print the name of the program
  * @argc: count arguments
