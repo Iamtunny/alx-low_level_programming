@@ -1,1 +1,1 @@
-static libraries
+script to show static libraries
