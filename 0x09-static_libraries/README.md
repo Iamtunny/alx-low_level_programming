@@ -1,1 +1,1 @@
-script to show static libraries
+its all about functions and nested loops
