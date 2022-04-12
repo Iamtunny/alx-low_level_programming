@@ -4,6 +4,7 @@
 /**
  * init_dog - initialize a varrriable of type struct dog
  * @d: array
+ * @name: name
  * @age: age
  * @owner: owner
  * Description: this struct is for dog
