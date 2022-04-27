@@ -3,6 +3,7 @@
 /**
  * get_nodeint_at_index - function returns a node at given index
  * @head: is a pointer to the first node ina linkedlist
+ * @index: is an integer
  * Return: is a pointer to node
  */
 
